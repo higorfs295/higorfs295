@@ -50,7 +50,7 @@ Estudante de **Engenharia de Computação** na UFG (Escola de Engenharia Elétri
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 
 **🤖 Robótica & Simulação**
 ![ROS 2](https://img.shields.io/badge/ROS_2-Humble%2FJazzy-22314E?style=flat-square&logo=ros&logoColor=white)
