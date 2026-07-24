@@ -39,6 +39,7 @@ Estudante de **Engenharia de Computação** na UFG (Escola de Engenharia Elétri
 ![PCB](https://img.shields.io/badge/Projeto_de_PCBs-2E7D32?style=flat-square)
 ![ESP](https://img.shields.io/badge/ESP-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Sensores](https://img.shields.io/badge/Sensores-546E7A?style=flat-square)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 **💻 Linguagens**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -49,6 +50,7 @@ Estudante de **Engenharia de Computação** na UFG (Escola de Engenharia Elétri
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 **🤖 Robótica & Simulação**
 ![ROS 2](https://img.shields.io/badge/ROS_2-Humble%2FJazzy-22314E?style=flat-square&logo=ros&logoColor=white)
@@ -70,6 +72,11 @@ Estudante de **Engenharia de Computação** na UFG (Escola de Engenharia Elétri
 **🕸️ Web**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**:iphone: Mobile**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
 **🎮 Games**
 ![GDevelop](https://img.shields.io/badge/GDevelop-4F28A6?style=flat-square&logo=gdevelop&logoColor=white)
